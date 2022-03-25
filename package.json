@@ -6,8 +6,13 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@typeform/embed": "^1.17.0",
+    "quill": "^2.0.0-dev.3",
+    "quill-2.0-dev": "2.0.0-dev.3",
+    "quill-better-table": "^1.2.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-quill": "2.0.0-beta.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
